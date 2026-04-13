@@ -13,9 +13,10 @@ Dark and Light (coming soon) themes for Flow Launcher.
 - **Layout:** Implements a custom split to override the standard 50/50 layout ratio.
 
 ## Installation
-1. [Download SpotlessDark.xaml](https://raw.githubusercontent.com/Glct26/FlowLauncherThemes/refs/heads/main/Spotless/SpotlessDark.xaml).
+1. [**Download SpotlessDark.xaml**](https://raw.githubusercontent.com/Glct26/FlowLauncherThemes/refs/heads/main/Spotless/SpotlessDark.xaml) (Right-click and select **"Save link as..."**).
 2. Move the file to: `%APPDATA%\FlowLauncher\Themes`
-3. Restart Flow Launcher and select **Spotless Dark** in Settings.
+3. Open Flow Launcher **Settings** -> **Appearance** -> **Theme** and select **Spotless Dark**.
+4. Restart Flow Launcher to ensure all changes apply correctly.
 
 ## Layout Sync
 To ensure the window and margins are correct, you need to sync the theme size:
