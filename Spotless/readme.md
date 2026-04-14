@@ -16,7 +16,7 @@ The minimalist version. Subtitles are removed for a completely uncluttered look.
 ### Spotless Light
 A glass-like light theme with subtle emphasis and optimized opacity to reflect your desktop background natively.
 
-![Spotless Light Preview](../screenshots/SpotlessLight.png)
+![Spotless Light Preview](../screenshots/SpotlessLight1.png)
 
 > [!NOTE]
 > **Preview Mode:** Designed with **"Preview Always On"** in mind, but remains fully functional without the preview panel.
