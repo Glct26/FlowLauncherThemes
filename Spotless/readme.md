@@ -1,9 +1,6 @@
 # Spotless Themes
 Dark and Light (coming soon) themes for Flow Launcher.
 
-## Previews
-![Spotless Dark](../screenshots/SpotlessDark2.png)
-
 > [!NOTE]
 > **Preview Mode:** Designed with **"Preview Always On"** in mind, but remains fully functional without the preview panel.
 
@@ -23,3 +20,13 @@ To ensure the window and margins are correct, you need to sync the theme size:
 1. Go to **Settings > Appearance**.
 2. Click the **Pencil Icon** (top right).
 3. Scroll down and click **Import Theme Size**.
+
+## Previews
+
+### Spotless Dark
+Mac-inspired dark theme with optimized Gaussian blur and precise alignment.
+![Spotless Dark](../screenshots/SpotlessDark2.png)
+
+### Spotless Dark Clean
+The minimalist version. Subtitles are removed for a completely uncluttered look.
+![Spotless Dark Clean Preview](../screenshots/SpotlessDarkClean1.png)
