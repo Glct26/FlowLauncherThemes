@@ -1,5 +1,5 @@
 # Spotless Themes
-Dark and Light themes for Flow Launcher.
+Dark and Light themes for Flow Launcher (with clean versions).
 
 ## Previews
 
@@ -18,6 +18,11 @@ A glass-like light theme with subtle emphasis and optimized opacity to reflect y
 
 ![Spotless Light Preview](../screenshots/SpotlessLight1.png)
 
+### Spotless Light Clean
+The minimalist version. Subtitles are removed for a completely uncluttered look.
+
+![Spotless Light Clean Preview](../screenshots/SpotlessLightClean2.png)
+
 > [!NOTE]
 > **Preview Mode:** Designed with **"Preview Always On"** in mind, but remains fully functional without the preview panel.
 
@@ -28,9 +33,10 @@ A glass-like light theme with subtle emphasis and optimized opacity to reflect y
 
 ## Installation
 1. Download your preferred theme (Right-click and select **"Save link as..."**):
-   - [**Download SpotlessLight.xaml**](https://raw.githubusercontent.com/Glct26/FlowLauncherThemes/refs/heads/main/Spotless/SpotlessLight.xaml)
    - [**Download SpotlessDark.xaml**](https://raw.githubusercontent.com/Glct26/FlowLauncherThemes/refs/heads/main/Spotless/SpotlessDark.xaml)
    - [**Download SpotlessDarkClean.xaml**](https://raw.githubusercontent.com/Glct26/FlowLauncherThemes/refs/heads/main/Spotless/SpotlessDarkClean.xaml)
+   - [**Download SpotlessLight.xaml**](https://raw.githubusercontent.com/Glct26/FlowLauncherThemes/refs/heads/main/Spotless/SpotlessLight.xaml)
+   - [**Download SpotlessLightClean.xaml**](https://raw.githubusercontent.com/Glct26/FlowLauncherThemes/refs/heads/main/Spotless/SpotlessLightClean.xaml)
 2. Move the file(s) to: `%APPDATA%\FlowLauncher\Themes`
 3. Open Flow Launcher **Settings** -> **Appearance** -> **Theme** and select your newly installed theme.
 4. Restart Flow Launcher to ensure all changes apply correctly.
