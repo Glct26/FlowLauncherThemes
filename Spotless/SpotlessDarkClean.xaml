@@ -212,10 +212,9 @@
 <Style x:Key="PreviewBorderStyle" BasedOn="{StaticResource BasePreviewBorderStyle}" TargetType="{x:Type Border}">
 	<Setter Property="BorderBrush" Value="#15FFFFFF" /> 
 	<Setter Property="BorderThickness" Value="1,0,0,0" />
-    <Setter Property="Margin" Value="244,0,0,0" />
+    <Setter Property="Margin" Value="244,0,0,10" />
 	<Setter Property="VerticalAlignment" Value="Stretch" />
 </Style>
-
 
 <Style x:Key="PreviewItemTitleStyle" BasedOn="{StaticResource BasePreviewItemTitleStyle}" TargetType="{x:Type TextBlock}">
     <Setter Property="FontFamily" Value="Segoe UI Variable Display" />
@@ -242,7 +241,7 @@
 
 <Style x:Key="PreviewGlyph" BasedOn="{StaticResource BasePreviewGlyph}" TargetType="{x:Type TextBlock}">
     <Setter Property="Foreground" Value="#FFFFFFFF" />
-    <Setter Property="FontSize" Value="90" /> <Setter Property="Margin" Value="0,120,0,40" /> 
+    <Setter Property="FontSize" Value="90" /> <Setter Property="Margin" Value="0,50,0,30" /> 
     <Setter Property="HorizontalAlignment" Value="Center" />
 </Style>    
 
