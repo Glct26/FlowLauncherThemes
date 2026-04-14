@@ -117,7 +117,7 @@
     <Setter Property="FontSize" Value="17" />
     <Setter Property="FontWeight" Value="SemiBold" />
     <Setter Property="Foreground" Value="#FFFFFFFF" />
-    <Setter Property="Margin" Value="0,00,0,0" />
+    <Setter Property="Margin" Value="0,0,0,0" />
 </Style>
 
 <Style x:Key="ItemTitleSelectedStyle" BasedOn="{StaticResource BaseItemTitleSelectedStyle}" TargetType="{x:Type TextBlock}">
