@@ -218,7 +218,7 @@
 <Style x:Key="PreviewBorderStyle" BasedOn="{StaticResource BasePreviewBorderStyle}" TargetType="{x:Type Border}">
 	<Setter Property="BorderBrush" Value="#15FFFFFF" /> 
 	<Setter Property="BorderThickness" Value="1,0,0,0" />
-    <Setter Property="Margin" Value="244,0,0,0" />
+    <Setter Property="Margin" Value="244,0,0,10" />
 	<Setter Property="VerticalAlignment" Value="Stretch" />
 </Style>
 
