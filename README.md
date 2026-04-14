@@ -11,3 +11,4 @@ A collection of custom-designed themes for Flow Launcher.
 
 ## Available Themes
 * **Spotless Dark** - Mac-inspired dark theme with optimized Gaussian blur and precise alignment.
+* **Spotless Dark Clean** - The minimalist version of Spotless Dark. Subtitles are removed for a completely uncluttered look.
